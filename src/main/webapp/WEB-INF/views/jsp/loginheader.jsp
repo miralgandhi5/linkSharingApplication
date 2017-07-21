@@ -20,10 +20,10 @@
 
                 <div class="menu pull-right">
 
-                    <i id="topiclink" data-toggle="modal" data-target="#myModal" class="fa fa-comment fa-2x" aria-hidden="true" style="padding-right:10px;margin-top:17px;"></i>
-                    <i  id="invitelink" data-toggle="modal" data-target="#myInviteModal" class="fa fa-envelope-o fa-fw" style="padding-right:10px;"></i>
-                    <i id="urllink"data-toggle="modal" data-target="#myLinkModal" class="fa fa-link fa-2x" aria-hidden="true" style="padding-right:10px;"></i>
-                    <i id="doclink" data-toggle="modal" data-target="#myDocModal"  class="fa fa-file-o fa-2x" aria-hidden="true" style="padding-right:50px;"></i>
+                    <a id="topiclink" data-toggle="modal" data-target="#myModal" class="fa fa-comment fa-2x" aria-hidden="true" style="padding-right:10px;margin-top:17px;"></a>
+                    <a  id="invitelink" data-toggle="modal" data-target="#myInviteModal" class="fa fa-envelope-o fa-fw" style="padding-right:10px;"></a>
+                    <a id="urllink"data-toggle="modal" data-target="#myLinkModal" class="fa fa-link fa-2x" aria-hidden="true" style="padding-right:10px;"></a>
+                    <a id="doclink" data-toggle="modal" data-target="#myDocModal"  class="fa fa-file-o fa-2x" aria-hidden="true" style="padding-right:50px;"></a>
 
 
                     <div class="dropdown pull-right changeFontSize" style="margin-top:15px;">
